@@ -10,4 +10,16 @@ Dimension tables : describe business entities
 Fact table : contain events, facts about a business process
 
 
+Ask Bussiness question from the data we have
+-- Most Ordered menu
+-- TOTAL ORDERED
+-- Total drink and food ordered
+-- TOP 3 SPENDERS
+-- MOST FAV BRANCH BY FEMALE
+-- INVOICE BY EACH BRANCH
+-- Most Ordered menu
+-- Most fav drinks menu
+-- Payment method
+
+
 ![BDRES (2)](https://user-images.githubusercontent.com/98679146/203039793-b09a6612-54ad-4564-8108-8beb902c1dda.jpg)
